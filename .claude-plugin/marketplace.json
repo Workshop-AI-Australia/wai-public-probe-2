@@ -1,0 +1,15 @@
+{
+  "name": "wai-public-probe-2",
+  "description": "Throwaway marketplace used to test plugin distribution. No client data.",
+  "owner": {
+    "name": "Workshop AI"
+  },
+  "plugins": [
+    {
+      "name": "plugin-probe-b",
+      "displayName": "Plugin Probe B",
+      "source": "./plugins/plugin-probe-b",
+      "description": "Reports which plugin components actually loaded on this surface."
+    }
+  ]
+}

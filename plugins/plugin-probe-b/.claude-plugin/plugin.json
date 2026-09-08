@@ -1,0 +1,9 @@
+{
+  "name": "plugin-probe-b",
+  "displayName": "Plugin Probe B",
+  "description": "Reports which plugin components actually loaded on this surface.",
+  "version": "3.0.0",
+  "author": {
+    "name": "Workshop AI"
+  }
+}
